@@ -24,16 +24,14 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 
 <h3 align="left">Connect with Me:-</h3>
 <p align="left">
-<a href="https://dev.to/supershivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sagnik" height="30" width="40" /></a>
-<a href="https://twitter.com/ShivamS87093943" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitrasagnik" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shivam-sahu-503/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shivam.sahu.33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagnik.mitra.562" height="30" width="40" /></a>
-<a href="https://www.instagram.com/superb_shivam13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artimkingas" height="30" width="40" /></a>
-<a href="https://medium.com/@xtylishshivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sagnikmitra123" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/supershivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/supershivam503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/supershivam503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shivam3373" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://twitter.com/Shivanshwho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitrasagnik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivanshu-sanjeev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shivanshu.sanjeev.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagnik.mitra.562" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_iam_shivanshu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artimkingas" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lockdown100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/why_u_bully_me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/why_u_bully_me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@shivanshusanjeev1506" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sagnikmitra" height="30" width="40" /></a>
 </p>
 
 <br>
