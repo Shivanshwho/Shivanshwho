@@ -1,4 +1,4 @@
-# <p align='center'> Hello, myself Shivam Sahu 👋</p>
+# <p align='center'> Hello, myself Shivanshu Sanjeev 👋</p>
 
 ### Glad to see you here!
 
@@ -11,12 +11,11 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
   
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on web and app development.
+- 👨🏻‍💻 I’m currently working on software development.
 - 🚀 I’m also actively involved in competitive progamming.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: shivam_1901cs55@iitp.ac.in
-- 📝 [Resume](http://bit.ly/ShivamSahuIITP_Resume).
-- 📝 [Portfolio](https://bit.ly/ShivamSahu).
+- 📫 How to reach me: shivanshu_1901cs56@iitp.ac.in
+- 📝 [Portfolio](https://shivanshwho.github.io/).
 
 <br>
 <br>
