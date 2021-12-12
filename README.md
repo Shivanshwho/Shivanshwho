@@ -1,4 +1,4 @@
-# <p align='center'> Hello, myself Shivanshu Sanjeev 👋</p>
+# <p align='center'> Hello, This is Shivanshu Sanjeev 👋</p>
 
 ### Glad to see you here!
 
